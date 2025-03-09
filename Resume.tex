@@ -1,0 +1,188 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1.8cm]{geometry}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{enumitem}
+\usepackage{fontawesome}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage[T1]{fontenc}
+\usepackage{times}     % Times New Roman for body
+\usepackage[scaled=.92]{helvet}  % Helvetica for headers
+\usepackage[none]{hyphenat}  % Add this package to disable hyphenation
+\sloppy  % Allow more space between words to avoid hyphenation
+
+% Font settings
+\renewcommand{\familydefault}{\rmdefault}  % Times New Roman as default
+\newcommand{\headerfont}{\sffamily\bfseries}  % Helvetica Bold for headers
+
+% Colors for better contrast
+\definecolor{sectionColor}{RGB}{0,51,102}
+\definecolor{bodyColor}{RGB}{45,45,45}
+\definecolor{linkColor}{RGB}{0,102,204}
+
+% Configure text colors
+\color{bodyColor}
+\urlstyle{same}
+
+% Configure hyperlinks
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkColor,
+    filecolor=linkColor,
+    urlcolor=linkColor,
+}
+
+% Custom section formatting
+\newcommand{\sectionfont}{\fontsize{14}{17}\headerfont\color{sectionColor}}  % Set to 14pt
+\titleformat{\section}
+    {\sectionfont}  % Using new 14pt section font
+    {}{0em}
+    {}[\titlerule]
+\titlespacing*{\section}{0pt}{12pt}{6pt}  % Reduced from 15pt,8pt to 12pt,6pt
+
+% Header name formatting (even larger, Helvetica)
+\newcommand{\headername}[1]{{\fontsize{16}{19}\headerfont #1}}  % Increased to 16pt
+
+% Custom itemize settings
+\setlist[itemize]{leftmargin=*,topsep=0pt,itemsep=2pt,parsep=2pt}
+
+\begin{document}
+\pagenumbering{gobble}  % Remove page numbers
+
+% Header with increased spacing
+\begin{center}
+    \headername{Pradhyumna Nagaraja Holla}  % Using new command for name
+    
+    \vspace{0.3em}
+    {\large Union City, NJ, USA}
+    
+    \vspace{0.3em}
+    {\faEnvelope\ \href{mailto:prad@pradholla.com}{prad@pradholla.com} 
+    \quad\textbullet\quad 
+    \faEnvelope\ \href{mailto:pnagaraj@stevens.edu}{pnagaraj@stevens.edu}}
+    
+    \vspace{0.2em}
+    {\faPhone\ (551) 235-3713 
+    \quad\textbullet\quad 
+    STEM OPT (Eligible 3-years)}
+    
+    \vspace{0.2em}
+    {\faLinkedin\ \href{https://www.linkedin.com/in/pradhyumna-n-holla/}{linkedin.com/in/pradhyumna-n-holla} 
+    \quad\textbullet\quad 
+    \faGithub\ \href{https://github.com/PradHolla}{github.com/PradHolla}}
+\end{center}
+\section*{Professional Summary}
+\begin{spacing}{1.1}
+Software Engineer with over 3 years of experience in software development, cloud computing, machine learning, and backend 
+systems, seeking \mbox{SWE/AI-ML} Intern roles. Proficient in building \mbox{AI-driven} applications, developing machine learning models, and deploying scalable backend solutions 
+using Python, AWS, and \mbox{TensorFlow}. Strong background in Cloud Services, \mbox{Natural Language Processing} (NLP), Computer Vision, Deep Learning, 
+with a passion for innovative \mbox{problem-solving} and enhancing customer solutions. Looking to leverage my experience in backend 
+development and ML to drive impactful projects at a tech-focused organization.
+\end{spacing}
+\vspace{-0.5em}  % Add negative space to reduce gap
+
+\section*{Education}
+\noindent\textbf{Stevens Institute of Technology} \hfill \textit{Hoboken, NJ}\\
+\textit{Masters in Computer Science} \hfill September 2024 - May 2026\\
+Concentration: Machine Learning\\
+% {Relevant Courses:} Mathematical Foundations of Machine Learning, Algorithms, Machine Learning Fundamentals and Applications, Artificial Intelligence, 3D Computer Vision, Health Informatics, Statistical Machine Learning, Natural Language Processing.
+\vspace{-0.5em}
+
+\vspace{-0.5em}
+\noindent\textbf{Jyothy Institute of Technology} \hfill \textit{Bengaluru, India}\\
+\textit{Bachelor of Engineering in Information Science} \hfill August 2017 – July 2021\\
+% {Activities and Societies:}
+% \begin{itemize}[noitemsep,topsep=2pt]
+%     \item Marketing Team (2018-2019) - Represented the college in various education summits
+%     \item Core Organizing Team (2018-2019) - Pranathi - Intercollegiate Fest
+% \end{itemize}
+\vspace{-0.5em}
+\section*{Skills}
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item \textbf{Technical:} Python, HTML/CSS, JavaScript, TypeScript, C, Dart, Java
+    \item \textbf{Frameworks:} TensorFlow, PyTorch, Scikit-Learn, PySpark, Django, Flask
+    \item \textbf{AWS Services:} Lambda, SAM, API Gateway, DynamoDB, S3, SES, EventBridge, EFS, SageMaker, Bedrock, EC2, ECR
+    \item \textbf{Tools:} Databricks, LangChain, LangSmith
+    % \item \textbf{Core Competencies:} Research and Analysis, Technical Writing, Problem Solving, Data Analysis
+    % \item \textbf{Soft Skills:} Team Leadership, Cross-functional Collaboration, Mentoring, Communication Skills.
+\end{itemize}
+
+\section*{Experience}
+\noindent\textbf{Stevens Institute of Technology} \hfill \textit{Hoboken, NJ}\\
+\textit{Research Assistant - Natural Language Processing Lab} \hfill December 2024 - Present
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item Conducting research on Large Language Models (LLMs) with focus on enhancing capabilities through external tool integrations
+    \item Implementing and evaluating various architectures for LLM integration with internet access and external APIs
+    \item Contributing to academic publications in the field of Natural Language Processing
+\end{itemize}
+\vspace{-0.3em}
+
+\vspace{1em}
+\noindent\textbf{AntStack Inc} \hfill \textit{Bengaluru, India}\\
+\textit{Member of Technical Staff - 2} \hfill March 2022 – July 2024
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item Built a chatbot powered by \mbox{OpenAI's GPT-4} and \mbox{LangChain}, integrated with Google Docs, Sheets, Calendar, Meetup, and Jira for a \mbox{Europe-based} client
+    \item Developed processes to monitor file uploads and pipeline failures on Databricks and alert relevant teams for a Singaporean Company
+    \item Designed a solution for executing ML Algorithms in the backend, and sending plots to the front end for a product based company
+    \item Developed a Natural Language Processing module for a Dispute Resolution project including complaint summarization for a law firm client
+    \item Developed a Proof of Concept for fraud detection using Machine Learning and Rule-Based Systems on Databricks
+    \item Authored technical blogs on trending technologies to boost company's digital presence and client acquisition
+\end{itemize}
+\vspace{-0.3em}
+
+\vspace{1em}
+\noindent\textbf{Queppelin Technology Solutions} \hfill \textit{Bengaluru, India}\\
+\textit{Application Developer} \hfill May 2021 – February 2022
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item Developed a Music Genre Classifier Web Application using Deep Learning library TensorFlow, audio analysis library Librosa and deployed on AWS EC2
+    \item Devised and built a solution to eliminate duplicate product lists for product reviews between multiple Excel files for a popular news network
+    \item Led and mentored interns through their internship, involving Proof of Concepts development and upskilling with industry relevant frameworks
+    \item Engaged in various internal company projects
+\end{itemize}
+\vspace{-0.3em}
+
+\vspace{0.5em}
+\noindent\textbf{Queppelin Technology Solutions} \hfill \textit{Bengaluru, India}\\
+\textit{AR-AI Intern} \hfill October 2020 – April 2022
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item Developed POCs demonstrating human body segmentation on Augmented Reality using Tensorflow, TensorflowJS and React
+    \item Implemented an interactive 3D visualization project using Three.js and AR.js, showcasing immersive web-based augmented reality experiences with marker-based tracking
+    \item Built multiple Proof of Concepts demonstrating expertise in Python and Data Science, leading to a full-time role offer
+\end{itemize}
+\vspace{-0.5em}
+
+\section*{Certifications}
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item \textbf{Google Cloud Professional Machine Learning Engineer} \\
+    \href{https://google.accredible.com/2d680a48-ff8a-42b7-a018-4f63c9b77030}{Certification Link}
+    \item \textbf{Coursera Deep Learning Specialization} \\
+    \href{https://www.coursera.org/account/accomplishments/specialization/certificate/VU7R5F8YXV3K}{Certificate Link}
+    \item \textbf{Coursera DeepLearning.AI TensorFlow Developer} \\
+    \href{https://www.coursera.org/account/accomplishments/specialization/certificate/XEV648B4FRQ3}{Certificate Link}
+\end{itemize}
+\vspace{-0.5em}
+
+\section*{Recognitions \& Achievements}
+\begin{itemize}[noitemsep,topsep=2pt]
+    \item Part of AWS Community Builder Program (Machine Learning) since 2023
+    \item Mentored and Co-hosted "GAMEATHON", an inter-college game development competition at Jyothy Institute of Technology (09/2019, 11/2020)
+    \item Received Recognition Award for Marketing Efforts at Jyothy Institute of Technology for representing the college at education summits(2018 - 2019)
+\end{itemize}
+
+\section*{Technical Writing}
+Authored technical blogs on AWS Machine Learning, Generative AI, and Cloud Computing:
+    \vspace{0.2em}
+    \begin{itemize}[leftmargin=*,noitemsep,topsep=0pt]
+        \item \href{https://www.antstack.com/blog/aws-machine-learning-extract-medical-insights-with-amazon-comprehend-medical/}{AWS Machine Learning - Extract Medical Insights with Amazon Comprehend Medical}
+        \item \href{https://www.antstack.com/blog/aws-machine-learning-build-train-and-deploy-a-serverless-image-classifier-using-amazon-sage-maker-aws-lambda-and-efs/}{AWS Machine Learning - Build, Train and Deploy a Serverless Image Classifier using Amazon SageMaker, AWS Lambda and EFS}
+        \item \href{https://www.antstack.com/blog/open-ai-embeddings-gpt-3-5-pinecone-and-aws-lambda-building-a-serverless-qa-chatbot/}{OpenAI Embeddings, GPT-3.5, Pinecone and AWS Lambda: Building a Serverless QA Chatbot}
+        \item \href{https://www.antstack.com/blog/open-ai-dynamo-db-build-a-conversational-chatbot-with-langchain/}{OpenAI + DynamoDB: Build a Conversational Chatbot with LangChain}
+        \item \href{https://www.antstack.com/blog/start-the-party-build-ai-apps-seamlessly-with-aws-party-rock/}{Start the Party! Build AI Apps Seamlessly with AWS PartyRock}
+        \item \href{https://www.antstack.com/blog/open-ai-dynamo-db-part-2-using-partition-and-sort-key-for-chat-memory-with-langchain/}{OpenAI + DynamoDB Part 2: Using Partition and Sort Key for Chat Memory with LangChain}
+    \end{itemize}
+
+\end{document}
