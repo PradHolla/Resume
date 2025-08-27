@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.19)  24 APR 2025 00:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.19)  21 AUG 2025 10:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Projects/Resume/Resume
-(d:/Projects/Resume/Resume.tex
+**d:/Projects/Resume/PNH_Resume
+(d:/Projects/Resume/PNH_Resume.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (d:/Applications/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
-(d:/Applications/texlive/2024/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+(d:/Applications/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count194
 \c@section=\count195
@@ -227,36 +227,127 @@ Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS)
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language89
 LaTeX Info: Redefining \_ on input line 43.
+) (d:/Applications/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count286
+\mult@box=\box54
+\multicol@leftmargin=\dimen160
+\c@unbalance=\count287
+\c@collectmore=\count288
+\doublecol@number=\count289
+\multicoltolerance=\count290
+\multicolpretolerance=\count291
+\full@width=\dimen161
+\page@free=\dimen162
+\premulticols=\dimen163
+\postmulticols=\dimen164
+\multicolsep=\skip69
+\multicolbaselineskip=\skip70
+\partial@page=\box55
+\last@line=\box56
+\mc@boxedresult=\box57
+\maxbalancingoverflow=\dimen165
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@firstbox=\box60
+\mult@gfirstbox=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@minrows=\count292
+\c@columnbadness=\count293
+\c@finalcolumnbadness=\count294
+\last@try=\dimen166
+\multicolovershoot=\dimen167
+\multicolundershoot=\dimen168
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count295
+) (d:/Applications/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks21
+\MT@tempbox=\box100
+\MT@count=\count296
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks22
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen169
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count297
+ (d:/Applications/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip71
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 53.
+Package microtype Info: Loading configuration file microtype.cfg.
+ (d:/Applications/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 58.
  (d:/Applications/texlive/2024/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (d:/Applications/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box54
-) (./Resume.aux)
-\openout1 = `Resume.aux'.
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box101
+) (./PNH_Resume.aux)
+\openout1 = `PNH_Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -266,23 +357,23 @@ LaTeX Font Info:    ... okay on input line 53.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(51.21504pt, 495.07779pt, 51.21504pt)
-* v-part:(T,H,B)=(51.21504pt, 742.61676pt, 51.21504pt)
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 772.77686pt, 36.135pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=495.07779pt
-* \textheight=742.61676pt
-* \oddsidemargin=-21.05495pt
-* \evensidemargin=-21.05495pt
-* \topmargin=-58.05495pt
+* \textwidth=525.23788pt
+* \textheight=772.77686pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -292,76 +383,90 @@ LaTeX Font Info:    ... okay on input line 53.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 53.
+Package hyperref Info: Link coloring ON on input line 58.
 (d:/Applications/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen160
-\scratchbox=\box55
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen161
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count299
+\scratchdimen=\dimen170
+\scratchbox=\box102
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen171
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks24
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 58.
+LaTeX Info: Redefining \microtypecontext on input line 58.
+Package microtype Info: Applying patch `item' on input line 58.
+Package microtype Info: Applying patch `toc' on input line 58.
+Package microtype Info: Applying patch `eqnum' on input line 58.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 58.
+
+Package microtype Info: Applying patch `verbatim' on input line 58.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 58.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(d:/Applications/texlive/2024/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 63.
  (d:/Applications/texlive/2024/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 14.71997pt on input line 58.
+(Font)              scaled to size 12.87997pt on input line 63.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 14.71997pt on input line 58.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 64.
+(Font)              scaled to size 12.87997pt on input line 63.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 65.
  (d:/Applications/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 65.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 66.
  (d:/Applications/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 12.87997pt on input line 78.
+(Font)              scaled to size 11.03998pt on input line 76.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 12.87997pt on input line 78.
+(Font)              scaled to size 11.03998pt on input line 76.
 
 
 [1
 
-{d:/Applications/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/Applications/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/Applications/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
-Underfull \hbox (badness 2050) in paragraph at lines 145--146
-[]\T1/ptm/m/n/10.95 Developed POCs demon-strat-ing hu-man body seg-men-ta-tion on Aug-mented Re-al-ity us-ing Ten-sor-flow,
- []
-
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.181 \end{document}
-                     [2] (./Resume.aux)
+{d:/Applications/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/Applications/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/Applications/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] (./PNH_Resume.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11977 strings out of 473579
- 184196 string characters out of 5725724
- 595728 words of memory out of 5000000
- 34746 multiletter control sequences out of 15000+600000
- 579795 words of font info for 54 fonts, out of 8000000 for 9000
+ 14005 strings out of 473579
+ 219588 string characters out of 5725724
+ 676884 words of memory out of 5000000
+ 36680 multiletter control sequences out of 15000+600000
+ 579655 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,342b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1022b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/Applications/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><d:/Applications/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><d:/Applications/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/Applications/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/Applications/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Resume.pdf (2 pages, 75207 bytes).
+Output written on PNH_Resume.pdf (1 page, 72028 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26625 words of extra memory for PDF output out of 29859 (max. 10000000)
 
